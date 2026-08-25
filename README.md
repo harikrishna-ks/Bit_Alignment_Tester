@@ -201,7 +201,7 @@ Bit-Alignment-Tester/
 
 ## Author
 
-**Hari Krishna**
+**Harikrishna K S**
 
 Digital Electronics & PCB Design Project
 
